@@ -1,2 +1,1 @@
-C# - Cadastro de séries
-Sistema simples de cadastro de séries que foi passado no curso Avanade Decola tech 2 edição.
+Sistema de cadastro de séries que foi passado no bootcamp Avanade Decola tech 2ª edição, afim de estudar sobre orientação a objetos usando C#.
